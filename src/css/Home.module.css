@@ -1,0 +1,27 @@
+
+.container{
+    width: 615px;
+    height: 300px;
+    margin-top: 130px;
+    margin-left: 30px;
+}
+.title{
+    font-size: 46px;
+    color: rgb(58, 58, 58);
+}
+.name{
+    color:  #666AF6;
+}
+.title2{
+    margin-top: -20px;
+    font-size: 35px;
+    color: rgb(58, 58, 58);
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+.png{
+    height: 325px;
+}
