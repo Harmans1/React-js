@@ -1,0 +1,22 @@
+.container{
+    width: 600px;
+    margin: 30px 30px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    font-size: 40px;
+}
+.me{
+    color: #666AF6;
+}
+.desc{
+    line-height: 1.4;
+    font-size: 18px;
+}
+.png{
+    height: 340px;
+}
